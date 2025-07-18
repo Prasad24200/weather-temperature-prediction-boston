@@ -23,7 +23,5 @@ This project analyzes historical hourly weather data for **Boston** and forecast
 - `scikit-learn`
 - `statsmodels`
 
----
 
-## 📁 Project Structure
 
